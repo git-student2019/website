@@ -2,6 +2,6 @@
 
 This is the readme file for this project
 
-# More Updates from Tortoise Git
+# Adding some Ipsum Lorem
 
-Updates on the feature branch
+Lorem Ipsum
